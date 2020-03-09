@@ -31,7 +31,16 @@ console.log(10 <= '10')
 console.log(1 == 1)// im lost
 console.log(1 == 1)// hhh
 console.log(1 === '1')// get me out of here
-console.LOG( UNDEFINED == null)
+console.log( undefined == null)
+
+x = 1
+y = 1
+
+if (x == y & x  == 1) {
+    console.log(x)
+}
+
+
 
 
 

@@ -9,4 +9,7 @@ i learned the increments is either addingg the number straight away or lagged ab
 for quokka ctrl and k then q turns it on and ctrl and k then e turns it off, const locks in the # or name but let allows you to change the variable., increment is adding the number and decrement is subtracting the number. if alert doesnt work, use console.log as it works the same way.
 i had trouble on line 31 but when an extra = was added it worked as its a console.log nof a if variable, now i understand why my quokka didnt work
 
-
+x = 1 // variable for both other wise the IF statement wont work
+y = 1
+if (x == y & x  == 1) {
+    console.log(x)  }
