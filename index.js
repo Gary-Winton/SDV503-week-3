@@ -40,3 +40,5 @@ console.log("post - increment")
 y = x--
 console.log(x)
 console.log(y)
+
+// decrement (-) is the same as increment (+) except for subtracting
