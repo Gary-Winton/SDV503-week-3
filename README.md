@@ -13,3 +13,6 @@ x = 1 // variable for both other wise the IF statement wont work
 y = 1
 if (x == y & x  == 1) {
     console.log(x)  }
+    1 = true and 0 = false
+
+    
