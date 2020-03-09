@@ -28,9 +28,10 @@ console.log(10 >= 5)// more than or equal to
 console.log(10 == '5')
 console.log(10 <= '10')
 
-console.log(true = 1)// im lost
+console.log(1 = 1)// im lost
 console.log(1 == 1)// hhh
 console.log(1 === '1')// get me out of here
+console.LOG( UNDEFINED == null)
 
 
 
