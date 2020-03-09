@@ -1,44 +1,27 @@
-let x = 15
-let y = 20
+let x = 10
+let y = 5
 
-console.log(x + y)
-console.log(x - y)
-console.log(x * y)
-console.log(x / y)
-console.log(x % y)
-console.log(x ** y)
-console.log(x + ++y)
+console.log(1 + 2, 3 + 4)
 
-// increment before add the number straight away when increment after takes an extra step before adding
 
-x = 10
-y = x 
-
-console.log ("pre - increment")
-
-y = ++x
 console.log(x)
-console.log(y)
-
-console.log("post - increment")
-
-y = x++
+x +-
 console.log(x)
-console.log(y)
-
-x = 10
-y = x 
-
-console.log ("pre - increment")
-
-y = --x
+x -= 20
 console.log(x)
-console.log(y)
-
-console.log("post - increment")
-
-y = x--
+x *= 10
 console.log(x)
-console.log(y)
+x /= 10
+console.log (x)
+x %= 10
+console.log(x)
 
-// decrement (-) is the same as increment (+) except for subtracting
+if ( x == y){
+console.log ( 'x == y' )
+}
+console.log(10 == 5)// same as
+console.log(10 != 5)// does not match
+console.log(10 < 5) // less than
+console.log(10 > 5)// more than
+console.log(10 <= 5)// less than or equal to
+console.log(10 >= 5)// more than or equal to
