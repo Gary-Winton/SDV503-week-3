@@ -25,3 +25,5 @@ console.log(10 < 5) // less than
 console.log(10 > 5)// more than
 console.log(10 <= 5)// less than or equal to
 console.log(10 >= 5)// more than or equal to
+console.log(10 == '5')
+console.log(10 <= '10')
